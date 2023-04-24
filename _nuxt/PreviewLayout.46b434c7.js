@@ -1,0 +1,1 @@
+/* empty css                          */import{k as t,o,f as r,r as s}from"./entry.1a48f663.js";const a={},c={class:"preview-layout"};function n(e,d){return o(),r("div",c,[s(e.$slots,"default",{},void 0,!0)])}const i=t(a,[["render",n],["__scopeId","data-v-e118c7a6"]]);export{i as default};
